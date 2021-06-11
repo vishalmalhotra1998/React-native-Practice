@@ -30,6 +30,6 @@ export const reportModalStyle = StyleSheet.create({
     display: 'flex',
     flexDirection: 'row',
     justifyContent: 'space-evenly',
-    marginLeft: '60%',
+    alignSelf: 'baseline',
   },
 });
